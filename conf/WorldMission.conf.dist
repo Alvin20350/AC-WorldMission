@@ -1,0 +1,16 @@
+#
+# Copyright (C) 2016+ AzerothCore <www.azerothcore.org>, released under GNU AGPL v3 license: https://github.com/azerothcore/azerothcore-wotlk/blob/master/LICENSE-AGPL3
+#
+
+[worldserver]
+
+# 世界任务编号
+zhCN.GlobalMission = 600064
+
+# 是否为硬核玩家专属
+# 0 - 非硬核专属
+# 1 - 硬核专属
+zhCN.IsHardCoreRequired = 1
+
+
+zhCN.MissionDialague = "世界任务已接取"
